@@ -36,5 +36,6 @@ Software Engineer with Half a Decade of Experience | NodeJS, Flutter Expert | Ru
 
 ## GitHub Stats
 
-![Ferrb9579's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferrb9579&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ferrb9579&show_icons=true&locale=en&layout=compact)
+![Ferrb9579's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferrb9579&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ferrb9579&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true)
