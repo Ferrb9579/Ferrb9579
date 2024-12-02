@@ -29,6 +29,7 @@ Software Engineer with Half a Decade of Experience | NodeJS, Flutter Expert | Ru
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Fanisus)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ferrb9579@gmail.com)
 
 ## Profile Views
 
